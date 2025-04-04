@@ -1,4 +1,16 @@
-# to-do-list
+# 📝 Simple Task Manager
 
-# This is a simple to do list to add new tasks and cross them off once it is completed.
-You can manage tasks and help maximize productivity with a simple task manager.
+A lightweight and beginner-friendly Task Manager web app that lets you add, delete, and mark tasks as complete. Ideal for personal productivity and learning full-stack web development basics.
+
+## 🚀 Features
+
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Clean and minimal UI
+- Responsive design
+
+## 🛠️ Built With
+
+- HTML, CSS, JavaScript 
+- Backend: Node.js + Express
